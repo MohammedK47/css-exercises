@@ -1,0 +1,25 @@
+div .text {
+    background-color: yellow;
+    color: #FF0000;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+/* also possible with the combinations below (I chose to mix between a type and class selectors):
+
+.container .text {
+    background-color: yellow;
+    color: #FF0000;
+    text-align: center;
+    font-size: 20px;  
+}
+
+div p {
+    background-color: yellow;
+    color: #FF0000;
+    text-align: center;
+    font-size: 20px;
+}
+    
+*/
